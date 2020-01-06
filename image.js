@@ -1,5 +1,5 @@
 'use strict';
-
+//comment
 const request = require('request');
 
 let subscriptionKey = process.env.COGNITIVE_SERVICE_KEY;
